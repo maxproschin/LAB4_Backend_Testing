@@ -14,9 +14,3 @@
 *   **Backend:** Python 3.x, FastAPI, Uvicorn.
 *   **Testing:** Pytest, Pytest-cov, Locust.
 *   **Automation:** Selenium, Webdriver-manager.
-
-##  Як запустити
-
-### 1. Встановлення залежностей
-```bash
-pip install pytest pytest-cov locust selenium webdriver-manager httpx
